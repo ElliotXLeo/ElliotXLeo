@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @ElliotXLeo
+- 👀 I am interested in FrontEnd development
+- 🌱 I am currently learning React
+- 💞️ I'm looking to collaborate on a Frontend project that uses React
+- 📫 How to contact me: +51997045329
